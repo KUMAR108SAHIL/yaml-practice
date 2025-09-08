@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school name="dav" principal="someone">
+<students>
+ <student>
+ <name>rahul</name>
+ <rollNo>445</rollNo>
+ <subject>science</subject>
+ </student>
+ </students>
+ </school>

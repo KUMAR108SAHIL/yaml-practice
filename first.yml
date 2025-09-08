@@ -1,0 +1,14 @@
+default: &base
+ image: node:20
+ resources:
+  cpu: "100m"
+  memory: "128Mi"
+
+services:
+ - name: api
+   <<: *base
+ - name: worker
+   <<: *base
+   replicas: 2
+
+

@@ -1,0 +1,15 @@
+{
+      "school":{
+            "name":"DAV",
+            "principal":"someone",
+            "students":[
+                  {
+                        "student":{
+                              "name":"rahul",
+                              "subject":"science",
+                              "marks":34
+                        }
+                  }
+            ]
+      }
+}
